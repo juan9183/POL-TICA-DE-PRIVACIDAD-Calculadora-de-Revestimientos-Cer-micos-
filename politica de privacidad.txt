@@ -1,0 +1,105 @@
+ POLÍTICA DE PRIVACIDAD
+
+ Calculadora de Revestimientos Cerámicos
+
+**Última actualización:** Diciembre 2024
+
+ 1. INFORMACIÓN GENERAL
+
+Esta Política de Privacidad describe cómo la aplicación "Calculadora de Revestimientos Cerámicos" ("nosotros", "nuestra", "la aplicación") recopila, utiliza y protege su información personal cuando utiliza nuestra aplicación móvil.
+
+ 2. INFORMACIÓN QUE RECOPILAMOS
+
+ 2.1 Información que usted proporciona:
+- Datos de entrada para cálculos (dimensiones, precios, configuraciones)
+- Preferencias de la aplicación
+- Datos guardados localmente en su dispositivo
+
+ 2.2 Información recopilada automáticamente:
+- Datos de uso de la aplicación
+- Información del dispositivo (modelo, sistema operativo)
+- Datos de rendimiento y errores técnicos
+
+ 2.3 Anuncios (AdMob):
+- Identificadores de publicidad
+- Datos de interacción con anuncios
+- Información de red para mostrar anuncios relevantes
+
+ 3. CÓMO UTILIZAMOS SU INFORMACIÓN
+
+ 3.1 Funcionalidad principal:
+- Realizar cálculos de revestimiento cerámico
+- Generar presupuestos y reportes PDF
+- Guardar sus preferencias y datos de entrada
+- Mejorar la funcionalidad de la aplicación
+
+ 3.2 Anuncios:
+- Mostrar anuncios relevantes
+- Analizar el rendimiento de los anuncios
+- Personalizar la experiencia publicitaria
+
+ 3.3 Mejoras del servicio:
+- Analizar el uso de la aplicación
+- Identificar y corregir errores
+- Desarrollar nuevas funcionalidades
+
+ 4. COMPARTIR INFORMACIÓN
+
+**No vendemos, alquilamos ni compartimos su información personal con terceros**, excepto:
+
+- **Google AdMob**: Para mostrar anuncios relevantes
+- **Servicios de análisis**: Para mejorar la aplicación
+- **Cumplimiento legal**: Cuando sea requerido por ley
+
+ 5. ALMACENAMIENTO DE DATOS
+
+ 5.1 Datos locales:
+- Sus cálculos y preferencias se almacenan únicamente en su dispositivo
+- Los archivos PDF generados se guardan temporalmente en el caché de la aplicación
+
+ 5.2 Seguridad:
+- Implementamos medidas de seguridad técnicas y organizativas
+- Sus datos están protegidos contra acceso no autorizado
+
+ 6. SUS DERECHOS
+
+Usted tiene derecho a:
+- Acceder a su información personal
+- Corregir datos inexactos
+- Eliminar sus datos de la aplicación
+- Desactivar la recopilación de datos para anuncios
+- Retirar su consentimiento en cualquier momento
+
+ 7. ANUNCIOS Y PUBLICIDAD
+
+ 7.1 Google AdMob:
+- Utilizamos Google AdMob para mostrar anuncios
+- Los anuncios pueden recopilar datos para personalización
+- Puede optar por no recibir anuncios personalizados
+
+ 7.2 Control de anuncios:
+- Puede desactivar los anuncios en la configuración de su dispositivo
+- Los anuncios de prueba no recopilan datos personales
+
+ 8. MENORES DE EDAD
+
+Nuestra aplicación no está dirigida a menores de 13 años. No recopilamos intencionalmente información personal de menores de 13 años.
+
+ 9. CAMBIOS EN ESTA POLÍTICA
+
+Nos reservamos el derecho de actualizar esta Política de Privacidad. Los cambios serán notificados a través de actualizaciones de la aplicación.
+
+ 10. CONTACTO
+
+Si tiene preguntas sobre esta Política de Privacidad, puede contactarnos en:
+
+**Email:** grupotrabajo1983@gmail.com
+**Sitio web:** www.mjbm.cl
+
+ 11. CONSENTIMIENTO
+
+Al utilizar la aplicación "Calculadora de Revestimientos Cerámicos", usted acepta los términos de esta Política de Privacidad.
+
+---
+
+© 2024 MJBM. Todos los derechos reservados.
