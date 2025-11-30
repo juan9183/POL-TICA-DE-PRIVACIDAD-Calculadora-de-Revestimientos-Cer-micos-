@@ -1,105 +1,126 @@
- POLÍTICA DE PRIVACIDAD
-
- Calculadora de Revestimientos Cerámicos
-
-**Última actualización:** Diciembre 2024
-
- 1. INFORMACIÓN GENERAL
-
-Esta Política de Privacidad describe cómo la aplicación "Calculadora de Revestimientos Cerámicos" ("nosotros", "nuestra", "la aplicación") recopila, utiliza y protege su información personal cuando utiliza nuestra aplicación móvil.
-
- 2. INFORMACIÓN QUE RECOPILAMOS
-
- 2.1 Información que usted proporciona:
-- Datos de entrada para cálculos (dimensiones, precios, configuraciones)
-- Preferencias de la aplicación
-- Datos guardados localmente en su dispositivo
-
- 2.2 Información recopilada automáticamente:
-- Datos de uso de la aplicación
-- Información del dispositivo (modelo, sistema operativo)
-- Datos de rendimiento y errores técnicos
-
- 2.3 Anuncios (AdMob):
-- Identificadores de publicidad
-- Datos de interacción con anuncios
-- Información de red para mostrar anuncios relevantes
-
- 3. CÓMO UTILIZAMOS SU INFORMACIÓN
-
- 3.1 Funcionalidad principal:
-- Realizar cálculos de revestimiento cerámico
-- Generar presupuestos y reportes PDF
-- Guardar sus preferencias y datos de entrada
-- Mejorar la funcionalidad de la aplicación
-
- 3.2 Anuncios:
-- Mostrar anuncios relevantes
-- Analizar el rendimiento de los anuncios
-- Personalizar la experiencia publicitaria
-
- 3.3 Mejoras del servicio:
-- Analizar el uso de la aplicación
-- Identificar y corregir errores
-- Desarrollar nuevas funcionalidades
-
- 4. COMPARTIR INFORMACIÓN
-
-**No vendemos, alquilamos ni compartimos su información personal con terceros**, excepto:
-
-- **Google AdMob**: Para mostrar anuncios relevantes
-- **Servicios de análisis**: Para mejorar la aplicación
-- **Cumplimiento legal**: Cuando sea requerido por ley
-
- 5. ALMACENAMIENTO DE DATOS
-
- 5.1 Datos locales:
-- Sus cálculos y preferencias se almacenan únicamente en su dispositivo
-- Los archivos PDF generados se guardan temporalmente en el caché de la aplicación
-
- 5.2 Seguridad:
-- Implementamos medidas de seguridad técnicas y organizativas
-- Sus datos están protegidos contra acceso no autorizado
-
- 6. SUS DERECHOS
-
-Usted tiene derecho a:
-- Acceder a su información personal
-- Corregir datos inexactos
-- Eliminar sus datos de la aplicación
-- Desactivar la recopilación de datos para anuncios
-- Retirar su consentimiento en cualquier momento
-
- 7. ANUNCIOS Y PUBLICIDAD
-
- 7.1 Google AdMob:
-- Utilizamos Google AdMob para mostrar anuncios
-- Los anuncios pueden recopilar datos para personalización
-- Puede optar por no recibir anuncios personalizados
-
- 7.2 Control de anuncios:
-- Puede desactivar los anuncios en la configuración de su dispositivo
-- Los anuncios de prueba no recopilan datos personales
-
- 8. MENORES DE EDAD
-
-Nuestra aplicación no está dirigida a menores de 13 años. No recopilamos intencionalmente información personal de menores de 13 años.
-
- 9. CAMBIOS EN ESTA POLÍTICA
-
-Nos reservamos el derecho de actualizar esta Política de Privacidad. Los cambios serán notificados a través de actualizaciones de la aplicación.
-
- 10. CONTACTO
-
-Si tiene preguntas sobre esta Política de Privacidad, puede contactarnos en:
-
-**Email:** grupotrabajo1983@gmail.com
-**Sitio web:** www.mjbm.cl
-
- 11. CONSENTIMIENTO
-
-Al utilizar la aplicación "Calculadora de Revestimientos Cerámicos", usted acepta los términos de esta Política de Privacidad.
-
----
-
-© 2024 MJBM. Todos los derechos reservados.
+Textos actualizados — Política de Privacidad y Términos y Condiciones
+Política de Privacidad
+Título: Política de Privacidad
+Última actualización: (fecha dinámica)
+Introducción
+MJBM respeta tu privacidad y se compromete a proteger tus datos personales. Esta política de privacidad explica cómo recopilamos, usamos y protegemos tu información cuando utilizas nuestra aplicación Calculadora de Cerámica, en cumplimiento del Reglamento General de Protección de Datos (GDPR) de la Unión Europea.
+1. Información que Recopilamos
+Información de uso de la aplicación
+Datos de configuración local
+Información técnica del dispositivo
+Proyectos guardados localmente (archivos JSON con dimensiones, precios y configuraciones)
+Logs locales para diagnóstico técnico (no se comparten con terceros)
+2. Cómo Usamos tu Información
+Proporcionar y mejorar nuestros servicios
+Realizar cálculos de revestimiento cerámico
+Generar presupuestos y reportes PDF
+Guardar tus proyectos y preferencias localmente
+Procesar suscripciones premium a través de Google Play
+Comunicarnos contigo cuando sea necesario
+3. Compartir Información
+No vendemos, alquilamos ni compartimos tu información personal con terceros, excepto:
+Google AdMob: Para mostrar anuncios (con tu consentimiento explícito según GDPR)
+Google Play Billing: Para procesar suscripciones premium (política: https://policies.google.com/privacy)
+Cuando es necesario para proporcionar nuestros servicios
+Cuando es requerido por ley
+Tus datos pueden ser procesados por Google fuera de la UE, con garantías adecuadas según GDPR.
+4. Almacenamiento de Datos
+Tus cálculos y preferencias se almacenan únicamente en tu dispositivo
+Los proyectos se guardan localmente en archivos JSON (almacenamiento interno de la app)
+Los archivos PDF generados se guardan temporalmente en el caché de la aplicación
+Puedes eliminar tus proyectos y datos en cualquier momento desde la app
+Versión gratuita: máximo 1 proyecto guardado
+Versión premium: proyectos ilimitados
+5. Seguridad de Datos
+Implementamos medidas de seguridad técnicas y organizativas apropiadas para proteger tu información personal contra acceso no autorizado, alteración, divulgación o destrucción.
+6. Consentimiento para Anuncios (UMP)
+Usamos Google User Messaging Platform (UMP) para solicitar tu consentimiento para anuncios
+El consentimiento se gestiona según GDPR/CCPA
+Puedes elegir entre anuncios personalizados o no personalizados
+Puedes cambiar tu consentimiento en cualquier momento
+Si no consientes, se mostrarán anuncios no personalizados
+7. Generación y Compartir de PDFs
+La app genera PDFs con los resultados de tus cálculos
+Los PDFs se guardan temporalmente en el caché de la app
+Los PDFs se comparten a través del sistema Android
+Tú controlas con quién compartes los PDFs
+Versión gratuita: máximo 5 compartidos por semana
+Versión premium: compartir sin límites
+8. Tus Derechos
+Según el GDPR, tienes derecho a:
+Acceder a tu información personal (Art. 15)
+Corregir datos inexactos (Art. 16)
+Solicitar la eliminación de tus datos (Art. 17)
+Limitar el procesamiento (Art. 18)
+Portabilidad de datos (Art. 20)
+Oponerte al procesamiento (Art. 21)
+Retirar tu consentimiento en cualquier momento (Art. 7.3)
+Presentar una reclamación ante la autoridad de control
+9. Contacto
+Si tienes preguntas sobre esta política de privacidad o sobre cómo manejamos tu información, contáctanos en:
+Email: grupotrabajo1983@gmail.com
+Sitio web: https://mjbm.cl
+Al continuar usando esta aplicación, aceptas los términos de esta política de privacidad.
+Términos y Condiciones
+Título: Términos y Condiciones
+Última actualización: (fecha dinámica)
+Introducción
+Al descargar, instalar o usar la aplicación Calculadora de Cerámica de MJBM, aceptas estar sujeto a estos términos y condiciones de uso.
+1. Aceptación de los Términos
+Al usar esta aplicación, confirmas que has leído, comprendido y aceptas estos términos y condiciones. Si no estás de acuerdo con alguna parte de estos términos, no debes usar la aplicación.
+2. Descripción del Servicio
+La aplicación Calculadora de Cerámica es una herramienta de cálculo que proporciona estimaciones de materiales y costos para proyectos de revestimiento cerámico. Los resultados son aproximados y deben ser verificados por profesionales calificados.
+3. Uso Aceptable
+Te comprometes a usar la aplicación únicamente para fines legales y de acuerdo con estos términos. No debes:
+Usar la aplicación para actividades ilegales
+Intentar acceder a sistemas no autorizados
+Interferir con el funcionamiento de la aplicación
+Distribuir contenido malicioso
+4. Limitación de Responsabilidad
+MJBM no se hace responsable por:
+Daños directos, indirectos o consecuentes
+Pérdidas de datos o información
+Interrupciones del servicio
+Resultados de cálculos que no coincidan con la realidad
+Los cálculos son estimaciones y deben ser verificados por profesionales.
+5. Propiedad Intelectual
+La aplicación y todo su contenido, incluyendo pero no limitado a código, diseño, gráficos, textos y algoritmos, son propiedad de MJBM y están protegidos por leyes de propiedad intelectual.
+6. Privacidad
+El uso de la aplicación también está sujeto a nuestra Política de Privacidad, que forma parte integral de estos términos y condiciones.
+7. Modificaciones
+MJBM se reserva el derecho de modificar estos términos en cualquier momento. Los cambios serán notificados a través de la aplicación. El uso continuado después de los cambios constituye aceptación de los nuevos términos.
+8. Terminación
+Podemos terminar o suspender tu acceso a la aplicación en cualquier momento, sin previo aviso, por cualquier motivo, incluyendo el incumplimiento de estos términos.
+9. Ley Aplicable
+Estos términos se rigen por las leyes de Chile. Cualquier disputa será resuelta en los tribunales competentes de Chile.
+10. Modelo de Suscripción
+La aplicación ofrece dos versiones:
+Versión Gratuita:
+1 proyecto máximo guardado
+5 compartidos de PDF por semana
+Anuncios banner e intersticiales
+Versión Premium (Suscripción):
+Proyectos ilimitados
+Compartir PDF sin límites
+Sin anuncios
+Suscripción recurrente gestionada por Google Play
+Los reembolsos se gestionan a través de Google Play según su política de reembolso. Puedes cancelar tu suscripción en cualquier momento desde Google Play.
+11. Límites de Uso
+La versión gratuita tiene límites en proyectos guardados y compartidos de PDF. El exceder estos límites requiere suscripción premium. Nos reservamos el derecho de modificar estos límites con previo aviso a través de actualizaciones de la aplicación.
+12. Contacto
+Si tienes preguntas sobre estos términos y condiciones, contáctanos en:
+Email: grupotrabajo1983@gmail.com
+Sitio web: https://mjbm.cl
+Al continuar usando esta aplicación, confirmas que has leído, comprendido y aceptas estos términos y condiciones.
+Resumen de cambios aplicados
+Política de Privacidad:
+Agregado: Google Play Billing
+Agregado: Proyectos guardados localmente
+Agregado: UMP (User Messaging Platform)
+Agregado: Generación y compartir de PDFs
+Corregido: Eliminada mención de "servicios de análisis"
+Términos y Condiciones:
+Agregado: Modelo de Suscripción (sección 10)
+Agregado: Límites de Uso (sección 11)
+Renumerado: Contacto ahora es sección 12
+Los textos están actualizados y alineados con la funcionalidad real de la aplicación.
